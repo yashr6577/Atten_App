@@ -1,4 +1,4 @@
-# Atten – Smart Attendance Tracking App
+# <img src="screenshots/logo.png" alt="Atten Logo" width="60"/> Atten – Smart Attendance Tracking App
 
 An Android-based smart attendance application designed to automate and secure attendance tracking using **geofencing, time-bound verification codes**, and **real-time notifications**.
 
