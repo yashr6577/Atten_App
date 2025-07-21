@@ -69,7 +69,7 @@ To eliminate **proxy attendance**, enhance **attendance accuracy**, and automate
 
 | Notifications | Profile | Demo |
 |---------------|---------|------|
-| <img src="screenshots/student_notifications.png" width="180"/> |<img src="screenshots/student_profile.png" width="180"/> | [📽 Watch Demo](demos\AttenS.mp4)|
+| <img src="screenshots/student_notifications.png" width="180"/> |<img src="screenshots/student_profile.png" width="180"/> | [📽 Watch Demo](demos/AttenS.mp4)|
 
 ---
 
@@ -77,7 +77,7 @@ To eliminate **proxy attendance**, enhance **attendance accuracy**, and automate
 
 | Login | Dashboard | Generate Code | Demo |
 |-------|-----------|---------------|------|
-| <img src="screenshots/teacher_login.png" width="180"/> | <img src="screenshots/teacher_dashboard.png" width="180"/> | <img src="screenshots/generate_code.png" width="180"/> | [📽 Watch Demo](demos\AttenT.mp4)|
+| <img src="screenshots/teacher_login.png" width="180"/> | <img src="screenshots/teacher_dashboard.png" width="180"/> | <img src="screenshots/generate_code.png" width="180"/> | [📽 Watch Demo](demos/AttenT.mp4)|
 
 
 
