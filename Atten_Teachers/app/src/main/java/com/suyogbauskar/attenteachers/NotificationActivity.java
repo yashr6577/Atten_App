@@ -109,7 +109,7 @@ public class NotificationActivity extends AppCompatActivity {
                     String firstname, lastname;
                     firstname = sp.getString("firstname", "");
                     lastname = sp.getString("lastname", "");
-                    FirebasePush firebasePush = new FirebasePush("AAAAtBgfzRs:APA91bFqeVeSH8NFUlNWJA_EuCWmwsCXHqyeawP1UV2sH7XHOcNcjumnoBdCWue0uQIB7B5yeePlYzfDiPrbqEusZFyIJWKrnWecHuIbSqjVvLT-tZoaa7zaMMfzCxVxAzezqFAKjVBd");
+                    FirebasePush firebasePush = new FirebasePush("");
                     firebasePush.setNotification(new Notification("Prof. " + firstname + " " + lastname, flatDialog.getFirstTextField()));
                     if (selectedDivision.equals("All")) {
                         firebasePush.sendToTopic("CO" + selectedSemester);

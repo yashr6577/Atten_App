@@ -1,50 +1,50 @@
 {
   "project_info": {
-    "project_number": "773498850587",
-    "firebase_url": "https://attendance-8b04a-default-rtdb.asia-southeast1.firebasedatabase.app",
-    "project_id": "attendance-8b04a",
-    "storage_bucket": "attendance-8b04a.appspot.com"
+    "project_number": "",
+    "firebase_url": "",
+    "project_id": "",
+    "storage_bucket": ""
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:773498850587:android:6877c33881ca93607e97be",
+        "mobilesdk_app_id": "",
         "android_client_info": {
           "package_name": "com.suyogbauskar.atten"
         }
       },
       "oauth_client": [
         {
-          "client_id": "773498850587-f5cgo1iublguodji76nt3e8ql8jdpjm0.apps.googleusercontent.com",
+          "client_id": "",
           "client_type": 1,
           "android_info": {
             "package_name": "com.suyogbauskar.atten",
-            "certificate_hash": "780c5ea5d1650b688b4b58748bc974b946884548"
+            "certificate_hash": ""
           }
         },
         {
-          "client_id": "773498850587-m1b22mjj5ccrnj8f7kp10dok98jl8i57.apps.googleusercontent.com",
+          "client_id": "",
           "client_type": 1,
           "android_info": {
             "package_name": "com.suyogbauskar.atten",
-            "certificate_hash": "9f55e441df791a222df2210bfa31f191b91227b9"
+            "certificate_hash": ""
           }
         },
         {
-          "client_id": "773498850587-0sk1h1u54j0jjkquo4r868r3s2o5qk4a.apps.googleusercontent.com",
+          "client_id": "",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCCaPj_OUy9yKJPm6CGrOJiJrbiror_D7M"
+          "current_key": ""
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "773498850587-0sk1h1u54j0jjkquo4r868r3s2o5qk4a.apps.googleusercontent.com",
+              "client_id": "",
               "client_type": 3
             }
           ]
@@ -53,51 +53,51 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:773498850587:android:e1d93d81758c56717e97be",
+        "mobilesdk_app_id": "",
         "android_client_info": {
           "package_name": "com.suyogbauskar.attenteachers"
         }
       },
       "oauth_client": [
         {
-          "client_id": "773498850587-6do9mmm7vp88u64cop85hm74le6oshtc.apps.googleusercontent.com",
+          "client_id": "",
           "client_type": 1,
           "android_info": {
             "package_name": "com.suyogbauskar.attenteachers",
-            "certificate_hash": "780c5ea5d1650b688b4b58748bc974b946884548"
+            "certificate_hash": ""
           }
         },
         {
-          "client_id": "773498850587-hi7j4d53uknf9rkhjb74bq82of580gi5.apps.googleusercontent.com",
+          "client_id": "",
           "client_type": 1,
           "android_info": {
             "package_name": "com.suyogbauskar.attenteachers",
-            "certificate_hash": "6a5357adfdcec87e77c7a2ad8bfb0403e5372e1d"
+            "certificate_hash": ""
           }
         },
         {
-          "client_id": "773498850587-noti52i4lhsfm5jrqrgvbdcmcmj43nsh.apps.googleusercontent.com",
+          "client_id": "",
           "client_type": 1,
           "android_info": {
             "package_name": "com.suyogbauskar.attenteachers",
-            "certificate_hash": "9f55e441df791a222df2210bfa31f191b91227b9"
+            "certificate_hash": ""
           }
         },
         {
-          "client_id": "773498850587-0sk1h1u54j0jjkquo4r868r3s2o5qk4a.apps.googleusercontent.com",
+          "client_id": "",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCCaPj_OUy9yKJPm6CGrOJiJrbiror_D7M"
+          "current_key": ""
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "773498850587-0sk1h1u54j0jjkquo4r868r3s2o5qk4a.apps.googleusercontent.com",
+              "client_id": "",
               "client_type": 3
             }
           ]
