@@ -106,6 +106,6 @@ To eliminate **proxy attendance**, enhance **attendance accuracy**, and automate
 
 **Yash Rajendra Rathod**  
 📧 yashr6577@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/yashrathod)
+🔗 [LinkedIn](https://www.linkedin.com/in/yashrathod6577)
 
 ---
