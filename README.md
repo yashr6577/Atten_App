@@ -61,35 +61,27 @@ To eliminate **proxy attendance**, enhance **attendance accuracy**, and automate
 
 ## 🖼️ Screenshots
 
-> Upload your screenshots to the `screenshots/` folder and update the paths below.
+### 🧑‍🎓 Student Dashboard
 
-### Student App
-#### 🔐 Login & Home
-![Student Login](screenshots/student_login.png)
-![Student Home](screenshots/student_home.png)
+| Google Sign-In | Home | Schedule | Submissions |
+|----------------|------|----------|-------------|
+| <img src="screenshots/student_login.png" width="180"/> | <img src="screenshots/student_home.png" width="180"/> | <img src="screenshots/student_schedule.png" width="180"/> | <img src="screenshots/student_submission.png" width="180"/> |
 
-#### 📅 Schedule & Submissions
-![Schedule](screenshots/student_schedule.png)
-![Submission](screenshots/student_submission.png)
-
-#### 🔔 Notifications & Feedback
-![Notifications](screenshots/student_notifications.png)
-![Feedback](screenshots/student_feedback.png)
+| Notifications | Feedback | Dark Mode | Profile |
+|---------------|----------|-----------|---------|
+| <img src="screenshots/student_notifications.png" width="180"/> | <img src="screenshots/student_feedback.png" width="180"/> | <img src="screenshots/student_darkmode.png" width="180"/> | <img src="screenshots/student_profile.png" width="180"/> |
 
 ---
 
-### Teacher App
-#### 🔐 Login & Dashboard
-![Teacher Login](screenshots/teacher_login.png)
-![Dashboard](screenshots/teacher_dashboard.png)
+### 👨‍🏫 Teacher Dashboard
 
-#### 📊 Attendance Tools
-![Generate Code](screenshots/generate_code.png)
-![Download Report](screenshots/download_report.png)
+| Login | Dashboard | Generate Code | Attendance Report |
+|-------|-----------|----------------|-------------------|
+| <img src="screenshots/teacher_login.png" width="180"/> | <img src="screenshots/teacher_dashboard.png" width="180"/> | <img src="screenshots/generate_code.png" width="180"/> | <img src="screenshots/download_report.png" width="180"/> |
 
-#### 📈 Student Data & Utilities
-![Student Data](screenshots/student_data.png)
-![Feedback View](screenshots/teacher_feedback.png)
+| Student Data | Unit Test Upload | Notification Sender | Feedback Review |
+|--------------|------------------|----------------------|------------------|
+| <img src="screenshots/student_data.png" width="180"/> | <img src="screenshots/unit_test_upload.png" width="180"/> | <img src="screenshots/teacher_notifications.png" width="180"/> | <img src="screenshots/teacher_feedback.png" width="180"/> |
 
 ---
 
