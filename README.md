@@ -65,7 +65,7 @@ To eliminate **proxy attendance**, enhance **attendance accuracy**, and automate
 
 | Google Sign-In | Home | Schedule | Submissions |
 |----------------|------|----------|-------------|
-| <img src="screenshots/signin_student.png" width="180"/> | <img src="screenshots/student_home.png" width="180"/> | <img src="screenshots/student_schedule.png" width="180"/> | <img src="screenshots/student_submission.png" width="180"/> |
+| <img src="screenshots/signin_student.jpg" width="180"/> | <img src="screenshots/student_home.png" width="180"/> | <img src="screenshots/student_schedule.png" width="180"/> | <img src="screenshots/student_submission.png" width="180"/> |
 
 | Notifications | Profile | Demo |
 |---------------|---------|------|
