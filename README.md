@@ -61,27 +61,25 @@ To eliminate **proxy attendance**, enhance **attendance accuracy**, and automate
 
 ## 🖼️ Screenshots
 
-### 🧑‍🎓 Student Dashboard
+### 🧑‍🎓 Atten - Student
 
 | Google Sign-In | Home | Schedule | Submissions |
 |----------------|------|----------|-------------|
 | <img src="screenshots/student_login.png" width="180"/> | <img src="screenshots/student_home.png" width="180"/> | <img src="screenshots/student_schedule.png" width="180"/> | <img src="screenshots/student_submission.png" width="180"/> |
 
-| Notifications | Feedback | Dark Mode | Profile |
-|---------------|----------|-----------|---------|
-| <img src="screenshots/student_notifications.png" width="180"/> | <img src="screenshots/student_feedback.png" width="180"/> | <img src="screenshots/student_darkmode.png" width="180"/> | <img src="screenshots/student_profile.png" width="180"/> |
+| Notifications | Profile | Demo |
+|---------------|---------|------|
+| <img src="screenshots/student_notifications.png" width="180"/> |<img src="screenshots/student_profile.png" width="180"/> | [📽 Watch Demo](demos\AttenS.mp4)|
 
 ---
 
-### 👨‍🏫 Teacher Dashboard
+### 👨‍🏫 Atten - Teacher
 
-| Login | Dashboard | Generate Code | Attendance Report |
-|-------|-----------|----------------|-------------------|
-| <img src="screenshots/teacher_login.png" width="180"/> | <img src="screenshots/teacher_dashboard.png" width="180"/> | <img src="screenshots/generate_code.png" width="180"/> | <img src="screenshots/download_report.png" width="180"/> |
+| Login | Dashboard | Generate Code | Demo |
+|-------|-----------|---------------|------|
+| <img src="screenshots/teacher_login.png" width="180"/> | <img src="screenshots/teacher_dashboard.png" width="180"/> | <img src="screenshots/generate_code.png" width="180"/> | [📽 Watch Demo](demos\AttenT.mp4)|
 
-| Student Data | Unit Test Upload | Notification Sender | Feedback Review |
-|--------------|------------------|----------------------|------------------|
-| <img src="screenshots/student_data.png" width="180"/> | <img src="screenshots/unit_test_upload.png" width="180"/> | <img src="screenshots/teacher_notifications.png" width="180"/> | <img src="screenshots/teacher_feedback.png" width="180"/> |
+
 
 ---
 
