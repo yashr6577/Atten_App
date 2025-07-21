@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FillDetailsActivity"
+    android:background="@drawable/background_color">
+
+    <LinearLayout
+        android:layout_marginTop="40dp"
+        android:paddingBottom="50dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_gravity="center_horizontal">
+    <EditText
+        android:id="@+id/firstname"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Firstname"
+        android:inputType="textPersonName"
+        android:minHeight="48dp"
+        android:textColorHint="@color/white"
+        android:textColor="@color/white"
+        android:importantForAutofill="no"/>
+
+    <EditText
+        android:id="@+id/lastname"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Lastname"
+        android:inputType="textPersonName"
+        android:minHeight="48dp"
+        android:textColorHint="@color/white"
+        android:textColor="@color/white"
+        android:importantForAutofill="no"
+        android:layout_marginTop="20dp"/>
+
+        <EditText
+            android:id="@+id/department"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="Department"
+            android:inputType="textPersonName"
+            android:minHeight="48dp"
+            android:textColorHint="@color/white"
+            android:textColor="@color/white"
+            android:importantForAutofill="no"
+            android:layout_marginTop="20dp"
+            android:cursorVisible="false"
+            android:focusable="false"/>
+
+        <EditText
+            android:id="@+id/semester"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="Semester"
+            android:inputType="textPersonName"
+            android:minHeight="48dp"
+            android:textColorHint="@color/white"
+            android:textColor="@color/white"
+            android:importantForAutofill="no"
+            android:layout_marginTop="20dp"
+            android:cursorVisible="false"
+            android:focusable="false"/>
+
+        <EditText
+            android:id="@+id/division"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="Division"
+            android:inputType="textPersonName"
+            android:minHeight="48dp"
+            android:textColorHint="@color/white"
+            android:textColor="@color/white"
+            android:importantForAutofill="no"
+            android:layout_marginTop="20dp"
+            android:cursorVisible="false"
+            android:focusable="false"/>
+
+        <EditText
+            android:id="@+id/batch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="Batch"
+            android:inputType="textPersonName"
+            android:minHeight="48dp"
+            android:textColorHint="@color/white"
+            android:textColor="@color/white"
+            android:importantForAutofill="no"
+            android:layout_marginTop="20dp"
+            android:cursorVisible="false"
+            android:focusable="false"/>
+
+    <EditText
+        android:id="@+id/enrollNo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Enrollment No"
+        android:inputType="number"
+        android:minHeight="48dp"
+        android:textColorHint="@color/white"
+        android:textColor="@color/white"
+        android:importantForAutofill="no"
+        android:layout_marginTop="20dp"/>
+
+    <EditText
+        android:id="@+id/rollNo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Roll No"
+        android:inputType="number"
+        android:minHeight="48dp"
+        android:textColorHint="@color/white"
+        android:textColor="@color/white"
+        android:importantForAutofill="no"
+        android:layout_marginTop="20dp"/>
+
+    <android.widget.Button
+        android:id="@+id/submitBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Submit"
+        android:textColor="@color/white"
+        android:background="@drawable/submit_btn_bg"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"/>
+
+    </LinearLayout>
+
+</ScrollView>

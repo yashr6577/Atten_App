@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Atten</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="note">Note : You will be marked absent if you leave the app or turn off screen during attendance</string>
+    <string name="start">Start</string>
+    <string name="close">Close</string>
+</resources>
